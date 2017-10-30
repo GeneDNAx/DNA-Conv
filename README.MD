@@ -4,3 +4,6 @@ Nguyen, Ngoc Giang, et al. "DNA Sequence Classification by Convolutional Neural 
 
 data_helpers.py has been adapated from https://github.com/dennybritz/cnn-text-classification-tf
 
+The final test accuracy is above 82%
+
+
